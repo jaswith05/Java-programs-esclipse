@@ -1,0 +1,3 @@
+Hello, this is written into Tech.txt file.
+Java File Handling example.
+hi am jaswith
